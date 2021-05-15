@@ -1,4 +1,4 @@
-%%% PROMPT
+### PROMPT
 
 Greentext rip off
 
@@ -24,4 +24,6 @@ Greentext rip off
 
 ### Joca:
 
+- server
+- client-server comm
 - bd
